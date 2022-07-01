@@ -1,7 +1,9 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://helexi.github.io/beers-app-test/).
 
-Languages/Frameworks Used
-React
-HTML 5
-CSS 3/SCSS
-Javascript ES6
+<h1>Languages/Frameworks Used</h1>
+<ul>
+  <li>React</li>
+  <li>HTML 5</li>
+  <li>CSS 3/SCSS</li>
+  <li>Javascript ES6</li>
+</ul>
