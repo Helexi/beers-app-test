@@ -1,4 +1,4 @@
-This project was bootstrapped with [Create React App](https://helexi.github.io/beers-app-test/).
+[DEMO](https://helexi.github.io/beers-app-test/).
 
 <h1>Languages/Frameworks Used</h1>
 <ul>
