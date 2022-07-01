@@ -1,0 +1,50 @@
+.allButtons-wrap {
+  display: flex;
+  justify-content: center;
+}
+
+.allButtons {
+  display: flex;
+  margin: 10px;
+}
+
+.button {
+  margin: 0 30px 0 30px;
+}
+
+.select {
+  display: flex;
+  justify-content: center;
+}
+
+.selectItems {
+  margin: 10px;
+  cursor: pointer;
+  display: block; 
+  font-size: 16px; 
+  font-family: sans-serif; 
+  color: rgb(0, 0, 0); 
+  line-height: 1.3; 
+  padding: .6em 1.4em .5em .8em; width: 100%; 
+  max-width: 200px; 
+  box-sizing: border-box;  
+  border: none;
+  box-shadow: 0 1px 0 1px rgba(0,0,0,.04); 
+  border-radius: .5em;
+  appearance: none;
+  background: #ffffff;
+  box-shadow: inset 3px 3px 8px rgba(46, 53, 62, 0.9),
+  1px 1px 2px rgba(66, 75, 88, 0.3), -1px -1px 2px 
+  rgba(46, 53, 62, 0.5), inset -3px 3px 6px rgba(46, 53, 62, 0.2), 
+  inset 3px -3px 6px rgba(46, 53, 62, 0.2), inset -3px -3px 6px 
+  rgba(66, 75, 88, 0.9);
+  transition: all 1s linear;
+}
+
+.selectItems:hover {
+  background: #ffffff;
+  box-shadow: inset -5px 5px 10px rgba(48, 54, 64, 0.2), 5px -5px 10px 
+  rgba(48, 54, 64, 0.2), -5px -5px 10px rgba(64, 74, 86, 0.9), 5px 5px 13px 
+  rgba(48, 54, 64, 0.9), inset 1px 1px 2px rgba(64, 74, 86, 0.3), 
+  inset -1px -1px 2px rgba(48, 54, 64, 0.5);
+}
